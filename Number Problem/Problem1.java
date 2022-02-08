@@ -52,14 +52,12 @@ public class Problem1{
                 break;
             }
         }
-
+        
         if(count > 0){
             System.out.println("It is not a ugly number");
         }else{
             System.out.println("It is ugly number");
         }
-              
-    
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
