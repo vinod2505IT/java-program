@@ -22,6 +22,5 @@ public class Problem3{
         int input = in.nextInt();
         isPronString(input);
         in.close();
-
     }
 }
