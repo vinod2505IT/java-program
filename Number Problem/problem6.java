@@ -1,6 +1,6 @@
 /*
 A number is called Disarium number if the sum of its power of the positions from left to right is equal to the number.
-Example: 11 + 32 + 53 = 1 + 9 + 125 = 135
+Example: 135 => 1^1 + 3^2 + 5^3 = 1 + 9 + 125 = 135
 */
 
 import java.util.Scanner;

@@ -1,7 +1,7 @@
+//Printing Primes(Printing prime numbers Upto N terms).
+
 import java.util.ArrayList;
 import java.util.Scanner;
-
-
 public class problem5 {
     public static void printPrimeNumber(int range){
         ArrayList<Integer> arr = new ArrayList<Integer>();

@@ -1,3 +1,11 @@
+/*
+Magic Number(Magic number is the if the sum of its digits recursively are
+calculated till a single digit If the single digit is 1 then the number is a magic
+number. Magic number is very similar with Happy Number. Example- 226 is said
+to be a magic number 2+2+6=10 sum of digits is 10 then again 1+0=1 now we get
+a single digit number is 1. if we single digit number will now 1 them it would not a
+magic number).
+*/
 import java.util.*;
 public class Problem4 {
     public static void isMagicNumber(int input){
